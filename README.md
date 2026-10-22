@@ -48,53 +48,6 @@ I'm a Multimedia Engineering Technology student at **Politeknik Elektronika Nege
 
 **Additional interests:** Conversational AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI-powered 3D content generation, and real-time avatar animation.
 
-## 🚀 Featured Projects
-
-### 🏥 MEDIVA — Medical Virtual Assistant
-
-A web-based medical virtual assistant concept featuring a conversational AI experience and an interactive 3D digital human avatar.
-
-**Focus areas:**
-- 3D avatar integration using React and Three.js.
-- GLB/glTF model optimization for real-time web rendering.
-- Avatar rigging, facial expressions, and lip-sync animation.
-- Integration of conversational AI and RAG.
-- Exploring immersive and interactive user experiences.
-
-### 🥽 Unity & XR Development
-
-Interactive applications and immersive experiences developed with Unity and XR technologies.
-
-**Areas of interest:**
-- Augmented, Virtual, and Mixed Reality.
-- Interactive 3D environments and gameplay systems.
-- Hand tracking and gesture-based interaction.
-- Multiplayer and immersive learning experiences.
-
-### 🌐 Web Development
-
-Developing web interfaces and interactive digital experiences using modern frontend technologies.
-
-**Focus areas:**
-- React-based user interfaces.
-- Three.js and real-time 3D visualization.
-- Responsive web design.
-- Interactive portfolio and application development.
-
-### 🤖 AI & Generative AI
-
-Exploring how AI can enhance digital applications and creative workflows.
-
-**Focus areas:**
-- Generative AI integration.
-- LLM-powered conversational interfaces.
-- Retrieval-Augmented Generation (RAG).
-- AI-assisted 3D asset creation and animation workflows.
-
----
-
-## 📊 GitHub Statistics
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=halimmwn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Halim's GitHub statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimmwn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Halim's most used languages" />
