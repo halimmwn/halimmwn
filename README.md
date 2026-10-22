@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=halimmwn&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=3B82F6&currStreakLabel=58A6FF" alt="Halim's GitHub contribution streak" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/halimmwn/halimmwn/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/halimmwn/halimmwn/output/pacman-contribution-graph.svg">
