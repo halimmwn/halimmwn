@@ -12,6 +12,8 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimmwn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Halim's most used languages" />
 </p>
 
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/halimmwn/halimmwn/output/pacman-contribution-graph-dark.svg">
